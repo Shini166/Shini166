@@ -27,5 +27,5 @@
   
   <p align="center">
   <em>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;Fun-Fact:I am Happy to bud in this tech world and we all can come together walking and exploring this beautiful world </em></p>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;Fun-Fact: I am Happy to bud in this tech world and we all can come together walking and exploring this beautiful world </em></p>
   
